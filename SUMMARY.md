@@ -4,6 +4,7 @@
 * [Get Involved](wiki/get-involved.md)
 * [Contact Us](contact-us/README.md)
 * [License](license/README.md)
+* [Releasing](releasing/README.md)
 * [Persist](persist/README.md)
 * [Search](search/README.md)
 * [Resubmit](resubmit/README.md)
