@@ -5,9 +5,10 @@ This book is intended for those that want to know about the ESB Message Admin pr
 
 Working with and supporting an Enterprise Service Bus (ESB) can be a challenging endeavor, especially if you're using
 solutions/technologies that don't include comprehensive support tools for managing messages, errors, syncing,
-configurations and
+and configurations.
 
-There are many projects for ESB Message Admin that are designed to fill the gap, and .  They are each documented here.
+There are many projects for ESB Message Admin that are designed to fill this gap, and each one will be documented here
+as it becomes available.
 
 ## ESB Message Admin
 
