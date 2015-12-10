@@ -2,7 +2,6 @@
 * [Introduction](README.md)
 * [Why ESB Message Admin?](wiki/why-esb-message-admin.md)
 * [Get Involved](wiki/get-involved.md)
-* [Current Status!](status/README.md)
 * [Contact Us](contact-us/README.md)
 * [License](license/README.md)
 * [Persist](persist/README.md)
