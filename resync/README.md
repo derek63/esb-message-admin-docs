@@ -14,4 +14,4 @@ This sequence diagram outlines the steps involved in resyncing a message from EM
 ## Resync Example
 The screenshot below shows how a message can be resynced via the EMA web application.
 
-![Resync Screenshot](/images/ema-screenshot-resync.png)
+![Resync Screenshot](/images/ema-screenshot-sync.png)
