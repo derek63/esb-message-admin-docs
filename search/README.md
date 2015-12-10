@@ -2,7 +2,7 @@
 
 ## Overview
 ESB Message Admin (EMA) provides capabilities for searching and viewing messages that have been previously persisted.
-Messages are indexed by ![Search Keys](/search-keys/README.md), and those keys can be used to filter the messages
+Messages are indexed by [Search Keys](/search-keys/README.md), and those keys can be used to filter the messages
 returned in the web application
 
 ## Search Sequence
