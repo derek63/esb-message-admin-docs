@@ -1,8 +1,8 @@
 # Sync Keys
 
 ## Overview
-ESB Message Admin (EMA) provides capabilities for administrators to configure sync keys that are used in the persist
-and search sequences, and aid users in locating messages that match specific criteria.
+ESB Message Admin (EMA) provides capabilities for administrators to configure sync keys that are used in the resync
+sequences, and aid users in specifying fields and values for resync opetations.
 
 
 ## Sync Keys Example
