@@ -9,9 +9,9 @@ anybody is quite simple:  ideas.  We started this project with open minds for op
 idea of how things could be better?   Let's talk!  Think there is some feature missing? Log an issue and we can talk
 about it.  Areas we could always use help with:
 * Documentation - find an issue?  it's open.. please feel free to fix it!
-* Ideas - missing features?  create an issue to track design discussions and fixes
-* Bugs - something is broken?  similar to ideas, log an issue for resolution
-* Code - fixed something or added a feature?  expect fast turn around / comment on submitted pull requests
+* Ideas - missing features?  Create an issue to track design discussions and fixes
+* Bugs - something is broken?  Similar to ideas, log an issue for resolution
+* Code - fixed something or added a feature?  Expect fast turn around / comment on submitted pull requests
 
 # Committer
 Being a committer is more than a willingness to write code.  Committers are dedicated to enhancing all aspects of the project:
