@@ -2,7 +2,7 @@
 
 ## Overview
 ESB Message Admin (EMA) provides capabilities for triggering sync messages (i.e. the current state of an integrated entity)
-from end systems using configured key fields.  See ![Sync Keys](/sync-keys/README.md) for more information on managing
+from end systems using configured key fields.  See [Sync Keys](/sync-keys/README.md) for more information on managing
 sync keys.
 
 
