@@ -16,7 +16,7 @@ previously configured in the application.  See the [Search Keys](search-keys/REA
 ## Sample Persist Request
 The JSON below provides a sample message persisting an error message into ESB Message Admin.
 
-```
+```json
   {
     "errorQueue": "GITHUB_ORG_ERROR",
     "messageId": "JMS8675309",

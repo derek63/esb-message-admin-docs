@@ -12,23 +12,23 @@ which can be be requested by opening an issue in the  [Sonatype JIRA Instance](h
 ## Setup
 
 1. GPG Setup - http://central.sonatype.org/pages/working-with-pgp-signatures.html
-2. Maven /usr/share/maven/conf/settings.xml Setup
+2. Maven `/usr/share/maven/conf/settings.xml` Setup
   1. Add "server" for each of these to "servers" section.  Each must have fields "id", "username", and "password".
     1. id = ossrh
     2. id = sonatype-nexus-snapshots
     3. id = sonatype-nexus-staging
-3. Maven ~/.m2/settings.xml Setup
+3. Maven `~/.m2/settings.xml` Setup
   1. http://central.sonatype.org/pages/consumers.html#apache-maven
-4. mvn on PATH
+4. mvn on `$PATH`
 
 ## Release
-1. cd to the repo you want to release
+1. `cd` to the repo you want to release
 2. Make sure you are on the master branch (script will complain if you don't)
-```
+```bash
 git checkout master
 ```
-3. Run ./release.sh <release version> <new snapshot version>
-```
+3. Run `./release.sh <release version> <new snapshot version>`
+```bash
 ./release.sh 1.2.0 1.3.0-SNAPSHOT
 ```
 
