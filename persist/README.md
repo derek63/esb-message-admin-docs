@@ -3,7 +3,7 @@
 ## Overview
 ESB Message Admin (EMA) provides a REST interface for persisting messages, along with associated
 metadata such as origin information, JMS headers, and error messages.
-The [EsbMessage class]("https://raw.githubusercontent.com/esbtools/esb-message-admin/master/api/src/main/java/org/esbtools/message/admin/model/EsbMessage.java")
+See the [EsbMessage class]("https://raw.githubusercontent.com/esbtools/esb-message-admin/master/api/src/main/java/org/esbtools/message/admin/model/EsbMessage.java")
 for all the fields that can be supplied when persisting an error message.
 
 ## Persist Sequence
@@ -16,7 +16,7 @@ previously configured in the application.  See the [Search Keys](search-keys/REA
 ## Sample Persist Request
 The JSON below provides a sample message persisting an error message into ESB Message Admin.
 
-```
+```json
   {
     "errorQueue": "GITHUB_ORG_ERROR",
     "messageId": "JMS8675309",
